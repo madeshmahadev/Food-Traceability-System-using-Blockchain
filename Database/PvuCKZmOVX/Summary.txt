@@ -1,0 +1,33 @@
+Summary Of RFID TAG: PvuCKZmOVX
+
+Stage 1: Farm
+Completed On Fri Nov 01 02:26:56 IST 2019
+Location Residue Testing Divison, Mahindra Big Apple Farm, Mahindra Estate, Jammu & Kashmir
+
+Stage 2: Sent to Processing Plant
+Completed On Sat Nov 02 02:26:57 IST 2019
+Location Qualitiy Check Divison, Mahindra Agri Food, REIDSVILLE, Delhi
+
+Stage 3: Sent to Factory
+Completed On Mon Nov 04 02:26:57 IST 2019
+Location Mahindra Agri Food Unit, Apple Division, Kalyani Industrial Estate, Delhi
+
+Stage 4: Sent to Warehouse
+Completed On Mon Nov 11 02:26:58 IST 2019
+Location Agri Food WAREHOUSE, Mahindra Industrial Estate, Delhi
+
+Stage 5: Sent to Wholesale Market
+Completed On Fri Nov 15 02:26:58 IST 2019
+Location Mahindra Agri Food Complex, Mahindra Industrial Estate, Delhi
+
+Stage 6: Sent to Retail Market
+Completed On Fri Nov 15 02:26:58 IST 2019
+Location Service Center, Big Bazar Shopping Complex, Ram Nagar, Delhi
+
+Stage 7: Sent to Consumer
+Completed On Wed Nov 13 02:26:59 IST 2019
+Location Ramapuram, Chennai
+
+Stage 8: Product Consumed...
+
+End Of Transaction for RFID TAG - PvuCKZmOVX
